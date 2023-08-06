@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Douglas1950
 - 👀 I’m interested in learning about AI 
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning C# and Python 
 - 💞️ I’m looking to collaborate on all things Python and AI
 - 📫 How to reach me at dougatfernie@gmail.com
 
